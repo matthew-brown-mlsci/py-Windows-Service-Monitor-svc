@@ -53,8 +53,8 @@ Navigate to windows services, adjust service to start on start-up!
     
 """
 
-sqlite_dbfile = 'C:\\scripts\\w32services.db'
-logfile = 'C:\\scripts\\w32services.log'
+#sqlite_dbfile = 'C:\\scripts\\w32services.db'
+#logfile = 'C:\\scripts\\w32services.log'
 check_services_interval = 5     # in seconds
 logging = 1                     # only for debugging
 
